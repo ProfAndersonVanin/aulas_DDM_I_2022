@@ -1,0 +1,8 @@
+Para a aula de 29/03/22:
+
+Seguir o tutorial e criar 2 versões deste app:
+- uma com o Iniciador de atividades
+- outra utilizando o Vizualizador Web
+
+Avaliação
+- Criar uma nova versão para pontos turísticos de São Paulo
