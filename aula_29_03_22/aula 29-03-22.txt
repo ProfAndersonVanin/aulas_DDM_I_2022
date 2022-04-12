@@ -4,5 +4,15 @@ Seguir o tutorial e criar 2 versões deste app:
 - uma com o Iniciador de atividades
 - outra utilizando o Vizualizador Web
 
+
+Iniciador de Atividades
+AÇÃO: android.intent.action.VIEW
+CLASSE DA ATIVIDADE: com.google.android.maps.MapsActivity
+PACOTE DA ATIVIDADE: com.google.android.apps.maps
+
+Colocar no bloco para juntar
+
+https://www.google.com/maps?q=
+
 Avaliação
 - Criar uma nova versão para pontos turísticos de São Paulo
