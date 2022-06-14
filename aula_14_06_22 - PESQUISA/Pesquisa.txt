@@ -1,0 +1,13 @@
+Realizar uma pesquisa sobre Desenvolvimento Mobile utilizando:
+- plataformas Híbridas (Cross)
+- plataformas Nativas
+
+Qual a diferença entre os dois tipos de desenvolvimento?
+Quais as vantagens e desvantagens desses dois tipos?
+Cite algumas plataformas de desenvolvimento Mobile.
+
+A pesquisa deve ter:
+- Conteúdo descritivo
+- Imagens ilustrativas e/ou Gráficos
+- Citação das referências (onde achou o texto)
+- Conclusão pessoal
